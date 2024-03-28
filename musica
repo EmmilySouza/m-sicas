@@ -1,0 +1,22 @@
+INSERT INTO músicas (ID, musica, artista, idioma, duração)
+VALUES
+(1, 'This Is Amazing Grace', 'Hillsong Worship', 'English', '4:30'),
+(2, 'The Cross', 'Prince', 'English', '4:00'),
+(3, 'Amazing Grace', 'John Newton', 'English', '3:30'),
+(4, 'Shackles (Praise You)', 'Mary Mary', 'English', '4:15'),
+(5, 'How He Loves', 'Chris Tomlin', 'English', '4:20'),
+(6, 'Oceans (Where Feet May Fall)', 'Hillsong Worship', 'English', '4:45'),
+(7, 'Great Is Thy Faithfulness', 'George Beverly Shea', 'English', '3:15'),
+(8, 'Jesus Paid It All', 'Chris Tomlin', 'English', '4:00'),
+(9, 'Amazing Grace', 'John Newton', 'English', '3:30'),
+(10, 'How He Loves', 'Chris Tomlin', 'English', '4:20'),
+(11, 'Oceans (Where Feet May Fall)', 'Hillsong Worship', 'English', '4:45'),
+(12, 'Great Is Thy Faithfulness', 'George Beverly Shea', 'English', '3:15'),
+(13, 'Jesus Paid It All', 'Chris Tomlin', 'English', '4:00'),
+(14, 'Amazing Grace', 'John Newton', 'English', '3:30'),
+(15, 'How He Loves', 'Chris Tomlin', 'English', '4:20'),
+(16, 'Oceans (Where Feet May Fall)', 'Hillsong Worship', 'English', '4:45'),
+(17, 'Great Is Thy Faithfulness', 'George Beverly Shea', 'English', '3:15'),
+(18, 'Jesus Paid It All', 'Chris Tomlin', 'English', '4:00'),
+(19, 'Amazing Grace', 'John Newton', 'English', '3:30'),
+(20, 'How He Loves', 'Chris Tomlin', 'English', '4:20');
